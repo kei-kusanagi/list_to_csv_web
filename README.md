@@ -1,16 +1,5 @@
 # export_csv
 
-A new Flutter project.
+only works in chrome 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/kei-kusanagi/list_to_csv_web/assets/93227096/d94ac6a9-9025-422b-9927-e9c1149262e5)
